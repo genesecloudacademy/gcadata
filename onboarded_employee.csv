@@ -1,0 +1,175 @@
+sid,full_name,gender,department,contact,email,academic_program,address,college_name,gradutation_year,Citizenship no,semester,dob,province,Current Adress,Status
+1,Usha Siwakoti,Female,SEO,9840055560,ushashasi18@gmail.com,MBS running,"Jhapa,birtamod",Apollo International College,2020,041012/2657,N/A,3/3/1994,1,"Macchegaun, kritipur",Non Onb
+2,Subodh Dahal,Male,Content Writing,9843151178,subodhdotcome@gmail.com,BBA Complete Masters Ongoing,"madi-rambeni, sankhuwasabha",Mid-Western University ,2020,102030/2846,1st,6-Nov-96,1,"dhapakhel, lalitpur",Non Onb
+3,Shristi Prajapati,Female,Technical Writing,9818330476,prazapatishristi904@gmail.com,BBA,"Jyatha ,kathmandu",Prime College,2020,27-01-71-01703,N/A,7/16/1997,3,"Jyatha ,kathmandu",Onboard
+4,Anu Dhakal,Female,Technical Writing,9867156834,anudk205@gmail.com,,"Butwal, Rupandehi",Western Regional Campus,2019,37-02-71-09195,N/A,4/29/1996,5,Kathmandu,Onboard
+5,Radha Gautam,Female,Technical Writing,9846142432,gautamradha13@gmail.com,Mechanical,"lamachour,pokhara-19","IOE, western regional campus",2019,461013/956,N/A,10/25/1995,4,"lamachour, pokhara-19",Onboard
+6,Sakar Raj Shrestha,Male,Technical Writing,9842586737,sakarshrestha11@gmail.com,Electrical,"Dharan,  Sunsari",Pulchowk Campus,2020,6027100604,N/A,3-Sep-97,3,"Anamnagar,  Kathmandu",Onboard
+7,Rojina Shrestha,Female,Content Writing,9849198555,rojina.stha528@gmail.com,,Sanepa Lalitpur,Kathmandu University School of Management,2020,28-01-070-00175,5th,1/1/1995,3,"Dillibazar, Kathmandu",Onboard
+8,Indra Lal Shrestha,Male,Technical Writing,9860231757,indra.stha.9@gmail.com,Electronics,"malekhu, dhading, nepal","Kathmandu Engineering College (KEC), kalimati",2020,26-303870/34,N/A,5/20/1995,3,"malekhu, dhading, nepal",Onboard
+9,Yaman Karki,Male,Technical Writing,9849674199,karkiyaman10@gmail.com,Electrical,"Dhapakhel, Lalitpur",National college of Engineering/TU,2016,28-01-069-02339,N/A,11/17/1995,3,"Dhapakhel, Lalitpur",Onboard
+10,Manoj Shrestha,Male,Technical Writing,9860745083,manojshrestha677@gmail.com,Mechanical,"Budhanilkantha, Kathmandu","Kathmandu University, School of Engineering",2019,271015/99160,N/A,25/04/1995,3,"Budhanilkantha, Kathmandu",Onboard
+11,Seema Bhatta,Female,Content Writing,9849711780,simabhatta29@gmail.com,BBA,"Shreekedar 07 , Baitadi",Nepal Commerce Campus,2020,271060/103300,2nd,10/15/1996,7,"Gothatar, Kathmandu",Non Onb
+12,Karma Tsherri Pakhrin,Male,Technical Writing,9803985710,karmatsherri@gmail.com,,"Sindhupalchwok , Barhabise",The British College,2018,24016901256,N/A,8th JULY 1993,3,Lokanthali Bhaktapur,Onboard
+13,Bodhraj Basnet,Male,Naati,9807862073,basnet.bodhraj@gmail.com,B.ED,"Karmaiya- 06, Sarlahi","Thakur Ram Multiple College,Birgunj Parsa, Nepal.",2018,54980280,N/A,1984 August 14,2,"Jorpati, Kathmandu.",Onboard
+14,Shrasta Mathema,Female,Technical Writing,9863471977,shrasta.mathema@gmail.com,Civil Er.,"Satdobato, Lalitpur 15",Kathmandu University,2019,28-01-070-04696,N/A,25th November 1997,3,"Satdobato, Lalitpur 15",Onboard
+15,Abhishek Bhandari,Male,Technical Writing,9860226146,abhi8official@gmail.com,Mech,"Dharan-16, Sunsari",Purwanchal engineering campus,2019,06-02-71-02287,N/A,"1998, June 29",1,"Dharan-16, Sunasari",Non Onb
+16,Swarnima Dev,Female,Technical Writing,9860466894,swarnima79@gmail.com,Civil,"Nepalgunj, ward no-6, Banke, Nepal.",Nepal Engineering College,2018,66-01-69-07319,N/A,13-09-1996,5,"Gokarneswor-5, Kathmandu, Nepal",Onboard
+17,Bikey Singh Nepali,Male,SEO,9841917397,bikeysingh39@gmail.com,BIM,Bhotebahal ,Asian School of Management & Technology,2015,1060/66984,N/A,2/19/1993,3,Sanepa,Onboard
+18,Manita Paudel,Female,Naati,9808861911,paudel04manita@gmail.com,CSIT,"Mahalaxmi Municipality, Ward no. 9, Lamatar, Lalitpur",Vedas College,2020,28-01-72-03944,,4-Dec-97,3,"Mahalaxmi Municipality, Ward no. 9, Lamatar, Lalitpur",Onboard
+19,Kaushal Rijal,Male,Technical Writing,9845406666,rijalkaushal1@gmail.com,Civil,"Ratnanagar-10, Chitwan, Nepal",Sagarmatha Engineering College,2018,351007/1269,N/A,9-Aug-96,3,"Sanepa, Lalitpur",Onboard
+20,Anjana Pokhrel,Female,SEO,9849738000,anjanapokhrel15@gmail.com,CSIT,Gorkha,Kathford International College,2018,441010/998,N/A,12/16/1995,4,"Banasthali, Kathmandu",Onboard
+21,Suraj Rana,Male,Technical Writing,9843894362,jbrsuraj@gmail.com,Automobile,"Bhumlutar-04, kavre",Thapathali campus,2019,30-01-72-05364,N/A,6/3/2053,3,"Sanga, Banepa-13",Onboard
+22,Anish Shrestha,Male,Cambridge,9860140468,anish.shrestha5432@gmail.com,Com,"Bahakha Bazaar, Madhyapur Thimi - 6, Bhaktapur","Pulchowk Campus, Lalitpur",2016,2901-067-07168,N/A,1994 September 29,3,"Bahakha Bazaar, Madhyapur Thimi - 6, Bhaktapur",Onboard
+23,Kushal Shrestha,Male,Technical Writing,9841525395,kushal.shrestha3@gmail.com,Mech,"Gwarko,  Laitpur",Pulchowk Campus,2019,28-0-067-04876,N/A,24-May-94,3,"Gwarko,  Laitpur",Onboard
+24,Pariskrit Niroula,Male,Content Writing,9840189016,pariskritniroula@gmail.com,BBA (completed),"Kaushaltar,Madhyapur thimi 15","Sharda University, Greater Noida, India",2019,29-01-72-00708,N/A,10/22/1998,3,Lamatar,Onboard
+25,Divya Darshan Tiwari,Male,Technical Writing,9843790323,dbatwary@gmail.com,Mech,"Sunwal-1, Nawalparasi west",Kathmandu University,2019,36-01-70-14371,N/A,11/22/1997,5,"Kausaltar-13, Bhaktapur",Onboard
+26,Yalina Bamanu,Female,Technical Writing,9861086145,yalinabamanu95@gmail.com,Civil,"Mangalachhen-4, Bhaktapur",Khwopa Engineering College,2019,29-01-70-04134,N/A,9/5/1996,3,Bhaktapur-4,Onboard
+27,Nabin Raj Ghimire,Male,Technical Writing,9813356457,nabinghimire1001@gmail.com,Com Er.,"Kachankawal-6, Jhapa","IOE Purwanchal Campus, Dharan",2020,04-01-70-13098,N/A,9/28/1996,1,"Kachankawal-6, Jhapa",Non Onb
+28,Jeeny Shrestha,Female,Technical Writing,9860392748,jeenyshrestha10@gmail.com,BBA,"Panchgachhi, Jhapa-04 ","The British College, Thapathali",2020,04-02-73-00897,6th,1998 April 27,1,"Machhapokhari, Balaju-16",Non Onb
+29,Roshan Gautam,Male,Technical Writing,9841077866,roshangautam045@gmail.com,EleX,"laligurans-04, tehrathum","IOE, purvanchal campus, dharan",2020,08-01-72-01174,N/A,7/6/1995,2,"tokha-04, kathmandu",Onboard
+30,Abhishek Hamal,Male,Technical Writing,9869798581,awesome.hamal@gmail.com,Com,"Dadheldhura, Mahakali","Kurukshetra University, Haryana, India",2021,271060/110274,re-attempt,8th of Feb. 1996,1,"Jadibuti, Kathmandu, Nepal",Non Onb
+31,Reetu Byanjankar,Female,Technical Writing,9849364407,byanjankarreetu@gmail.com,BSW,"Patan, Lalitpur",Goldengate International College,2014,9871791,,8/9/1992,3,"Patan, Lalitpur",Onboard
+32,Sanju Karki,Female,Technical Writing,9843542585,karkisanjuu@gmail.com,Civil,"Okhaldhunga, Phediguth",Cosmos College of Management and Technology,2019,27-01-72-05712,N/A,3/24/1998,1,"Kapan, Budhanilkantha",Non Onb
+33,Shairan Twanabasu,Male,Technical Writing,9860011246,tshairan123@gmail.com,Civil,"Chasukhel, Bhaktapur, Nepal",Khwopa Engineering College,2020,29-01-70-00825,N/A,1/24/1997,3,"Chasukhel, Bhaktapur, Nepal",Onboard
+34,Prakhyat Khatiwada,Male,Technical Writing,9844219119,prakhyat072bex@ioepc.edu.np,Electronics,"Raghunathpur-5, Dhanusha","IOE,Eastern Regional Campus Dharan",2020,131042/1369,N/A,1997-Oct-08,2,"Bhaktapur, srijananagar",Onboard
+35,Grishma Subedi,Female,Content Writing,9860445556,grishmasubedi001@gmail.com,BBA (Completed) MBA Running,Bhaktapur ward no.3 Bansagopal,Bhaktapur Multiple Campus,2022,29-01-061-00461,1st,8/5/1995,3,Bhaktapur ward no.3 Bansagopal,Onboard
+36,Laxman Neupane,Male,Content Writing,9849904356,zerohero117@gmail.com,BBA (completed),"Palpa, Telgha - 8",Everest College,2019,271060/114690,N/A,1995 Oct 28,5,"New Baneshor, Kathmandu",Onboard
+37,Sulab Shrestha,Male,Technical Writing,9840016045,sulab.stha98@gmail.com,Mechnical,"Shankhamul, Kathmandu","Purwanchal Engineering Campus, Dharan",2020,27-01-71-08765,back left,2/18/1998,3,"Shankhamul, Kathmandu",Onboard
+38,Roshan Kumar Sah,Male,Technical Writing,9815805336,roshanshah5336@gmail.com,Mechanical,"Pipragaupalika-06,Ratauli,Mahottari","Phonics Group of Institution,Roorkee,Uk,India",2019,183027/10,N/A,5/3/1997,2,"Pipragaupalika-06,Ratauli,Mahottari",Onboard
+39,Ashish Chemjong,Male,Content Writing,9869556766,ashish.subba16@gmail.com,B.A (major English) Running,"Illam-6, Illam",Tri Chandra College,2020,03-01-74-00643,6th,6/30/1999,1,"Pepsicola, Kathmandu",Non Onb
+40,Suprina Chaudhary,Female,Content Writing,9866405791,supreenaj@gmail.com,BBA Completed,Jeetpursimara,Shanker Dev Campus,2019,332101/43611,N/A,20th July 1996,2,"Maaharajgunj, Kathmandu",Onboard
+41,Samir Luintel,Male,SEO,9862125511,samirluitel57@gmail.com,CSIT,"Urlabari, Morang",Asian College of Higher Studies,2019,05-01-71-28288,N/A,4/30/1996,1,"Urlabari, Morang",Non Onb
+42,Simran Kshetry,Female,Content Writing,9808998658,simrankshetry58@gmail.com,BBA Running,Maitidevi-30,Malpi International College,2020,271060/128349,7th,11/9/1996,3,"Narayantaar, Jorpati",Onboard
+43,Ankita Pokhrel,Female,Technical Writing,9862239246,pokhrelankita1234@gmail.com,Electronics,Pyuthan,Himalaya College of Engineering,2019,27-01-71-05560,N/A,12/26/1997,5,"Gothatar, Kathmandu",Onboard
+44,Aryasupurna Timalsina,Male,Technical Writing,9860343407,timarya123@gmail.com,electrical,"Kathmandu, Dhapasi","IOE, Pulchowk campus",2019,271026/130999,1st,5/13/1996,1,"lalitpur, sunakothi",Non Onb
+45,Parash Upreti,Male,Content Writing,9863325949,upretiparash@gmail.com,Intermidiate,"Sahodawa-2, Mahottari",Santwona College,2020,18-01-73-06623,N/A,1997-Sep-23,2,"Balkot-2, Bhaktapur",Onboard
+46,Kushal Bhattarai,Male,Technical Writing,9861331989,bhattaraikushal@yahoo.com,Automobile,bhaktapur,Thapathali campus,2020,29-01-71-03,back left,4/11/1997,3,baneshwor,Onboard
+47,Grishma Dahal,Female,Technical Writing,9860059311,grishma.dahal1@gmail.com,IT/ Computing,Gokarneshwor - 6,Islington College,2020,27-01-74-01824,N/A,"13 April, 2000",3,Gokarneshwor - 6,Onboard
+48,Gagan Bhagat,Male,Content Writing,9803640054,gaganbhagat3@gmail.com,BBS Result Waiting,"Gadhi Gaupalika 2, Sunsari, Nepal",Shwoyambhu International College,2020,06-01069-02163,N/A,1995-070-02,1,"Gadhi Gaupalika 2, Sunsari, Nepal",Non Onb
+49,Shilu Newa,Female,Content Writing,9849783375,Ciloonewa1@gmail.com,"BBA, MBA Ongoing","Chitlang-09, Makwanpur",Global International College,2020,31-12-69-00267,2nd,1/30/1994,3,"chhauni, kathmandu",Onboard
+50,Shrijan Dhungel,Male,Technical Writing,9821208233,shrinandhungel3@gmail.com,BSCIT,hetauda,"The British College, Thapathali kathmandu",2020,31-01-73-06143,8th,7/7/1999,3,hetauda,Onboard
+51,Dinesh Dhamala,Male,SEO,9860687030,ddhamala76@gmail.com,B.E in Information Science & Engineering,"Lamki-Chuha-7,Kailali Nepal",Cambridge institute of Technology Bangalore,2019,672035-55354,N/A,27-06-1997,7,"Shantinagar New Baneshwor , Kathmandu",Non Onb
+52,Mandeep Bhattarai,Male,Content Writing,9843590981,amanmandeep.mb@gmail.com,BBA (completed),"lahan, siraha",Nepal Commerce Campus,2019,16878,N/A,5/25/1997,2,"Babarmahal, kathmandu",Onboard
+53,Neeru Pun,Female,Technical Writing,9818978863,pun.neeru18@gmail.com,Civil,"Baneswore, Kathmandu","Himalaya college of engineering, TU",2020,56-01-71-01734,N/A,18/09/1997,3,"Baneswore, Kathmandu",Onboard
+54,Saroj Maka,Male,Technical Writing,9808823672,sroj551@gmail.com,Civil,"Suryabinayak-10, Bhaktapur","OE, Pulchowk Campus",2020,2.90E+11,,4-Jan-96,3,"Suryabinayak-10, Bhaktapur",Onboard
+55,Rashila Shrestha,Female,Technical Writing,9860286806,rashilacresta@gmail.com,Electrical,Panauti -7 kavre,9860286806,2019,30-01-72-01310,N/A,6/17/1995,3,Panauti -7 Kavre,Onboard
+56,Sumira Maharjan,Female,Technical Writing,9818390851,tweethrt124@gmail.com,Civil Er.,"Dallu-15, Kathmandu",Kantipur International College,2018,271060/118083,N/A,24-01-1997,3,"Dallu-15, Kathmandu",Onboard
+57,Alisha Bohora,Female,Content Writing,9860606776,balisha400@gmail.com,B PH (completed,"Balaju, Height Kathmandu",Asian University for Women,2019,271060-59534,N/A,26-Apr-94,3,"Balaju, Height Kathmandu",Onboard
+58,Manish Raj Aryal,Male,Technical Writing,9849702020,072bme622@pcampus.edu.np,Mechanical,"Ekantakuna -13, Lalitpur","TU, IOE Pulchowk",2019,28-01-070-04778,N/A,10/20/1997,3,"Ekantakuna -13, Lalitpur",Onboard
+59,Shreesti Sharma,Female,Content Writing,9847578768,shreestisharma123@gmail.com,BPH Complete,Sandhikharka-2. Arghakhanchi,Manmohan Memorial Institute of Health Sciences,2020,401017/1851,N/A,8/4/1996,5,"Koteshwor, Kathmandu",Onboard
+60,Suvechha Koirala,Female,Content Writing,9861280036,suvechhyakoirala2051@gmail.com,Master Statistics (Completed,"Tilottama Municipality-15, Rupandehi",Tribhuvan University,2019,371017/48893,,1994 Oct 25,5,"Kathmandu metropolitan- 15, Kathmandu",Onboard
+61,Bibek Ghimire,Male,Technical Writing,9817302945,bibek.ghimire83@gmail.com,Electronics,"Ithari-20, Sunsari","IOE Purwanchal Engineering Campus, Dharan",2020,06-01-71-09044,n/a,7/17/1997,1,"Ithari-20, Sunsari",Non Onb
+62,Janak Roka,Male,Technical Writing,9819356286,janakgrunz123@gmail.com,Electronics,"Rajghat-02, Morang Nepal",Purwanchal Engineering Campus,2019,052049-38669,N/A,5/9/1996,1,"Kathmandu, Guwarko",Non Onb
+63,Rajan Thapa,Male,Content Writing,9880614381,thaparajan875@gmail.com,Biotechnology (completed),"Shyampati simalchaur, Namobuddha municipality, Kavrepalanchok",Kathmandu university ,2019,30-01-71-04311,N/A,1/16/1996,3,"Sanothimi, Madhyapur thimi municipality , Bhaktapur ",Onboard
+64,Aarati Khanal,Female,Technical Writing,9861447333,khanalarti34@gmail.com,Computer Networking and IT Secutity (TECH),Butwal,CGIM,2023,38-06-73-60106,1st,2/10/1998,5,Baneshwor,Onboard
+65,Ritika Khadka,Female,Content Writing,9843889351,ritikakhadka04@gmail.com,BBM (completed),Sanopokhara 5 - Hetauda,Nepal Commerce Campus,2019,31-01-72-04750,N/A,26/10/1997,3,"Sallaghari, Bhaktapur",Onboard
+66,Raksha Karki,Female,Content Writing,9849898496,rakshyakarkee@gmail.com,Bachelor in Nursing Completed,"Bhiman, sindhuli",Om health Campus,2019,20-01-72-01535,N/A,1st june 1997,3,"Tikathali, Lalitpur",Onboard
+67,Prativa Thapa,Female,Content Writing,9845577293,prativat175@gmail.com,Bachelor in Nursing Completed,"Hetauda- 4, Makawanpur",Om Health Campus,2019,31-01-70-01908,N/A,8/25/1996,3,"New_Baneshwor, Kathmandu",Onboard
+68,Ashok Subedi,Male,Technical Writing,9843669168,subedimanhari111@gmail.com,Mechanical,"Bhimad Municipality-02, Tanahun",Western Region Campus,2017,431043/636,N/A,"5th April, 1996",3,"Kritipur Municipality, Kathmandu",Onboard
+69,Bipan Banjara,Male,Technical Writing,9849424848,banjarabipan@gmail.com,Mechanical,"Thadobato, Panauti road, Panauti-4, Kavre ",Kathmandu University,2019,3001-067-13427,N/A,23-Jul-94,3,"Thadobato, Panauti road, Panauti-4, Kavre ",Onboard
+70,Abhishek Ghimire,Male,Technical Writing,9842499576,ghimireabhishek1996@gmail.com,Mechanical,"Dharan-16, Sunsari",Eastern Regional Campus,2020,06-02-71-03527,n/A,2/17/1996,1,"Katunje, Bhaktapur",Non Onb
+71,Amrit Dahal,Male,Technical Writing,9845042988,amritdahal57@gmail.com,Electrical,"pashupatinagar, Hetauda -9, Makawanpur",Advanced college of Engineering and Management,2020,,N/A,"15 July, 1995 A.D.",3,"Greenland, Tokha-8, Kathmandu",Onboard
+72,Amish Maharjan,Male,Technical Writing,9849422530,aamiz.maharzon@gmail.com,Com Er,"Kirtipur, Kathmandu ",Everest Engineering College,2020,271058/124051,N/A,10/15/1996,3,"Kirtipur, Kathmandu ",Onboard
+73,Anshu Karki,Female,Technical Writing,9862207882,anshukarki2@gmail.com,Electrical,Biratnagar,National college of Engineering,2020,05-01-72-01652,N/A,"Jan 15,1999",1,Biratnagar,Non Onb
+74,Shraddha Amatya,Female,Technical Writing,9849935353,shraddha.amatya1@gmail.com,Electronics,"Birgunj, Parsa",Advanced College of Engineering and Management,2018,271060/84189/29298,N/A,8/5/1994,2,"Kupondole, Lalitpur",Onboard
+75,Sirjana Sharma,Female,Technical Writing,9849079857,sirjusharma33@gmail.com,Civil,"Bhagyeswor-6, Achham",Kantipur Engineering College,2019,271060/118736,N/A,3rd July 1996 AD,7,"Mahalaxmi-7, Changathali, Lalitpur",Non Onb
+76,Khusbhu Thakur,Female,Content Writing,9843666915,khusbhuthakur.9843@gmail.com,MBA Running,"Rautahat, Gaur",Himalayan College of Management ,2020,32-01-69-05662,3rd,"28th Jan, 1996",2,"Satungal, Chandragiri Municipality ",Onboard
+77,Jah Bir Shakya,Male,Cambridge,9860601770,jahbirshakya@gmail.com,Electrical,"Jamal-01, Kathmandu",Kathmandu Engineering College,2018,271060/115380,N/A,"07 Nov, 1995",3,"Jamal-01, Kathmandu",Onboard
+78,Jala Shakya,Female,Cambridge,9843183605,jala.shakya001@gmail.com,Bim,"Naghal, Kathmandu",prime college,2019,27-01-72-06791,N/A,14-Jul-97,3,"Naghal, Kathmandu",Onboard
+79,Sajani Baniya,Female,Cambridge,9843504828,sajanibaniya@gmail.com,BBA,"Dhapakhel, Lalitpur",D.A.V. College,2019,28-01-72-04097,N/A,12/12/1998,3,"Dhapakhel, Lalitpur",Onboard
+80,Shamika Shrestha,Female,Cambridge,9841970694,samushre@gmail.com,ELEX,"Gorkha, 1, Gorkha",Nepal Engineering College,2020,441001-509,,10/13/1990,4,"Satobado, ANFA complex",Onboard
+81,Niraj Buyo,Male,Technical Writing,9843228918,nirajbuyo77@gmail.com,Electrical,"Chasukhel,             Bhaktapur-8",Institude of Engineering-KHCE,2018,29-01-71-02028,N/A,8/21/1995,3,"Adarsha-5, Bhaktapur",Onboard
+82,Sagar Maskey,Male,Technical Writing,9803560571,sagar.maskey@yahoo.com,elex,"Gaushala-9, Kathmandu",IOE Thapathali Campus,2017,27-1060/60809,N/A,26-Aug-92,3,"Dallu-15, Kathmandu",Onboard
+83,Shushanta Pudasaini,Female,Technical Writing,9843698538,shusrulz@gmail.com,COM,"Belkotgadhi-9,Nuwakot",Advanced College of Engineering and Mangaement,2019,25-01-69-01338,N/A,10/3/1995,3,"Tarkeshwor -9 , Kathmandu",Onboard
+84,Shankar Prasad Paudel,Male,Technical Writing,9843048165,ranjitpdl4@gmail.com,,"Lalbandi-01, Sarlahi",Himalaya College of Engineering,2019,19/2095/474,N/A,3/12/1994,3,"Narephat, Jadibudi Kathmandu",Onboard
+85,Gaurav Raj Bista,Male,Content Writing,9849352530,gauravbista23@gmail.com,BBA,Biratnagar-11,Platinum Management College,2018,14085,N/A,29th aug 1996,3,"Jorpati, Nayabasti",Onboard
+86,Bikash Sundash,Male,Content Writing,9842465378,bikashsundash555@gmail.com,IT,"Patharisanischare,Morang",Nihareeka College,2020,052062/11071,N/A,1/19/1995,1,"Jayabageshwori,Kathmandu",Non Onb
+87,Chhiring Sherpa,Male,Content Writing,9803328264,chhiring.tashi@gmail.com,BioTech,Dolakha,SANN International College,2018,231034/80 ,N/A,3/9/1995,3,Jorpati,Onboard
+88,Prashanta Khadka,Male,Content Writing,9843566125,Sakharbabu321@gmail.com,BBA Complete Masters Ongoing,"Bhojpur, dawan",Rajdhani College,2022,091026-182,1st,23-May-95,2,"Lokanthali, Bhaktapur",Onboard
+89,Smirti Khanal,Female,Content Writing,9862925502,smikhanal305@gmail.com,,"Katari-02, Udayapur",Padmakanya Multiple campus,2019,142036/4143,N/A,"6th February, 1999",1,"Katari-02, Udayapur",Non Onb
+90,Celeste Pokhrel,Female,Content Writing,9843521414,celesteriri123@gmail.com,,"Simara, Bara",Prime College,2019,2081/37836,N/A,19/04/1997,2,"Sorkhuttey, Nayabazar, Kathmandu.",Onboard
+91,Pooja Yadav,Female,Content Writing,9843274999,poojayadav13727@gmail.com,,"Dakshin Jhitkaiya, Gamaharia, Bara - 2",Shanker Dev Campus ,2019,33-01-72-02055,N/A,1/1/1999,2,"Lokanthali, Bhaktapur",Onboard
+92,Nehal mainali,Male,Content Writing,9861169309,nehalmainali@gmail.com,,"Bhadrapur-12, Jhapa Nepal",Nobel Medical College,2020,4017202524,9th,"7th nov, 1997",1,"Kanchanbari-5, Biratnagar",Non Onb
+93,Shristi Dangol,Female,Content Writing,9813753397,shristidangol47@gmail.com,ACCA,"Bhotebahal, Kathmandu","The British College, Thapathali",2020,27-01-73-02348,Last Semester,30-Jun-98,3,"Bhotebahal, Kathmandu",Onboard
+94,shrijana shrestha,Female,Content Writing,984335568,crz0nastha052@gmail.com,,"Itahari- 4, Sunsari",Dharan Multiple College,2018,06-01-70-03667,N/A,"26th Nov, 1995",1,"Itahari- 4, Sunsari",Non Onb
+95,Bhuwan Dahal,Male,SEO,9814907320,bhuwan.dahal1234@gmail.com,BCA,Madi- Sankhuwasabha,Gomendra Multiple College,2020,10-02-76-00383,result waiting,8/25/1996,1,Jorpati - Kathmandu,Non Onb
+96,Abhaya Acharya,Female,Technical Writing,9804010161,abhayacharya3@gmail.com,Mech,"Bhadrapur-10, Jhapa","Kurukshetra University, Haryana, India",2020,04-01-71-12638,N/A,10/11/1998,1,"Bhadrapur-10, Jhapa",Non Onb
+97,Yurika Khanal,Female,SEO,9843711386,khanalyurika@gmail.com,CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+98,Aakriti Bhattarai,Female,Technical Writing,9842504484,bhattarai.aakriti44@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+99,Yashoda Khadka,Female,Content Writing,9813043363,yashodakhadka953@gmail.com,BBA (running),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+100,Anup Bhattarai,Male,Content Writing,9860052081,anupbhattarai92@gmail.com,BBA (completed),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+101,Prasansha KC,Female,Content Writing,9816706349,prasanshakc7@gmail.com,Bim Complete,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+102,Anuj Gautam,Male,Technical Writing,9849632777,ravig4279@gmaiil.com,Elex,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+103,Shrilata Wagle,Female,Naati,9843496864,wagleshreee@gmail.com,CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+104,Sawan Kumar Baskota,Male,Technical Writing,9860953205,bsawan345@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+105,Pramod Khatiwada,Male,SEO,9860260878,pramodkhatiwada03@gmail.com,CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+106,Bhim Lal Adhikari,Male,Networking,9860100577,lal.bhim577@gmail.com,BIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+107,Milan Baidhya,Male,Technical Writing,9843304414,milanbaidhya14@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+108,Shabab Banu,Female,Naati,9866557528,shasha.shabab@gmail.com,,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+109,Bhuwan Dahal (Internship),Male,SEO,9814907320,bhuwan.dahal1234@gmail.com,BCA,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+110,Saheena Banu,Female,Naati,9860181403,khan.saheena111@gmail.com,Management(+2),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+111,Bidhya Sharma Pokharel,Female,Cambridge,9851100487,bidhyapokharel2@gmail.com,CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+112,Shiva Pandey,Male,Technical Writing,9844778021,shiva.pandey7771@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+113,Bijita Bhattarai,Female,Content Writing,9844243545,bhattaraibijita@gmail.com,MBS running,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+114,Swapnil Pokhrel,Male,Content Writing,9851241650,sbkpokharel@gmail.com,Masters Running,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+115,Bobin Poudel,Male,Technical Writing,9824038753,nbobinpoudel702@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+116,Jitesh Kalwar,Male,Technical Writing,9845269436,jiteshkalwar10@gmail.com,Mech,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+117,Roja Pradhananga,Female,Content Writing,9843808589,rojapradhananga111@gmail.com,BBA (completed),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+118,Sushant Ghising,Male,Technical Writing,9823788763,susghising@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+119,Ruchi Agrawal,Female,Technical Writing,9868136713,ruchi.agrawal@apexcollege.edu.np,CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+120,Saujan Luitel,Female,Technical Writing,9843702206, saujanluitel@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+121,Pawan Gurung,Male,Content Writing,9815128988,grgpawan25@gmail.com,BBA Completed,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+122,Ashok Pokhrel,Male,Technical Writing,9817590393,ashokpokhrel99@gmail.com,Mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+123,Saroj Niraula,Male,Technical Writing,9860178711,sarojniraula3@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+124,Awash Bhattarai,Male,Content Writing,9860479975,awashbhattarai8@gmail.com,BSC.IT (running),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+125,Shiva Shankar Tripathi,Male,Technical Writing,9840259839,csshiva243@gmail.com,Bsc CSIT,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+126,Kripesh Shrestha,Male,Technical Writing,9860653587,kripeshrestha2052@gmail.com,Mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+127,Naresh Rai,Male,Technical Writing,9815525080,rayeenirwan@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+128,Govinda Rokka,Female,Content Writing,9862125708,govs593@gmail.com,BPH (result waiting),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+129,Ashma Manandhar,Female,Content Writing,9860618800,amhsamanandhar@gmail.com,BBA Completed,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+130,Anup Munikar,Male,Technical Writing,9849823098,munikar13@gmail.com,Electronics,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+131,Raja Babu Mandal,Female,Technical Writing,9816725738,vikashmandal03@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+132,Nabin Adhikari,Male,Technical Writing,9843851220,nabin.1196@gmail.com,BSC (hons) ,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+133,Manoj Gyawali,Male,Technical Writing,9867158000,manojgyawali0@gmail.com,Agricultural er.,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+134,Rajesh Kaji Shrestha,Male,Technical Writing,9844790607,rajeshstha501@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+135,Prakash Kumar Karna,Male,Technical Writing,9845253385,emsg.karna@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+136,Laxman Pangeni,Male,Technical Writing,9841771602,laxmanace9@gmail.com,Mech ,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+137,Abhishek Bhattarai,Male,Technical Writing,9862673825,abhishekbhattarai077@gmail.com,Computer Er,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+138,Laxmi Kumari Dahal,Female,Technical Writing,9840094067,saraswatidahal10@gmail.com,MA,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+139,Amina Pandey,Female,Content Writing,9860979798,,Intermidiate,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+140,Manzil Kafle,Male,Content Writing,9865219522,kaflemanzil13@gmail.com,B.Sc. Agriculture (Graduate) completed,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+141,Rushab Khadka,Male,Content Writing,9840379886,rushabkhadka67@gmail.com,"plus 2, Science","Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+142,Krishnaa Shrestha,Female,Technical Writing,9849614515,Krishnaashrestha012@gmail.com,civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+143,Ashmita Thapa,Female,Technical Writing,9813350927,thapashmi77@gmail.com,mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+144,Rubin Man Tamrakar,Male,Technical Writing,9840030116,rubin.tamrakar4@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+145,Aashutosh Neupane,Male,Technical Writing,9861591853,aashutoshneupane77@gmail.com,mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+146,Abhisek Majhi,Male,Technical Writing,9804084355,majhiaavi0818@gmail.com,mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+147,Prabin Bhandari,Male,Technical Writing,9823489488,astroprabin95@gmail.com,mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+148,Sunita Tamang,Female,Content Writing,9808779286,sunitmg1357@gmail.com,B Pharmacy (completed),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+149,Shashank Tiwari,Male,Technical Writing,9827388840,tiwarishashank141@gmail.com,Mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+150,Sagar Pal,Male,Naati,9824660813,pals98424@gmail.com,BBS,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+151,Bijay Prakash Rajak,Male,Technical Writing,9861584202,bijay.rajak.16.bizu@gmail.com,Automobile,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+152,Leegina Shakya,Female,Content Writing,984350957,leezshk88@gmail.com,BBA (Completed),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+153,Sunil Thapa,Male,Technical Writing,9846489719,sunil.thapa130218@gmail.com,Electronics,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+154,Nitika Basnet,Female,Content Writing,9841700464,nitikabasnet123@gmail.com,Bachelor in Nursing Completed,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+155,Amrit Singh,Male,Technical Writing,9861819595,asthakuri1994@gmail.com ,civil (TECH),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+156,Sudip Chaulagain,Male,Technical Writing,9845028960,Sudipchaulagain70@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+157,Aditya Sharma Timalsena,Female,Technical Writing,9845734252,timalsenaaditya@gmail.com,mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+158,Suresh Adhikari Chhetri,Male,Technical Writing,9849938254,suresh.rt2017@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+159,Pawan Karki,Male,Technical Writing,9844694276,pawankarki1865@gmail.com,Mechanical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+160,Aman Ranjit,Male,Cambridge,9840095031,amanranjit1@gmail.com,BBA,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+161,Ishan Gautam,Male,Networking,9849217234,ishan.gautam12@gmail.com,BBS Running,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+162,Roshan Raj Mainali,Male,Technical Writing,9845170459,mainaliroshanraj93@gmail.com,Mech,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+163,Prakash Dangi,Male,Content Writing,9860112143,prakashdangi341@gmail.com,,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+164,Ranju Mainali,Female,Content Writing,9849748154,ranjumainali90@gmail.com,Public Health ,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+165,Sushil Prasad Sharma,Male,Content Writing,9868236140,spshrma696@gmail.com,BBA,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+166,Karuna Thapa,Female,Content Writing,9815570666,cakarunathapa@gmail.com,MGmt,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+167,Rohit Lal Thing Tamang,Male,Content Writing,9869226937,rohitlama611@gmail.com,Mgmt,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+168,Ralina Maharjan,Female,Content Writing,9818129072,ralinamahrjan1@gmail.com,Bach Running,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+169,Mitalesh Kumar Yadav,Male,Technical Writing,9845667044,eryadav321@gmail.com,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+170,Rabin Sharma,Male,Technical Writing,9869396451,rbn.sharma01@gmail.com,Civil,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+171,Unnati Shakya,Female,Content Writing,9843405613,unnatishakya99@gmail.com,BBA COMPLETE,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+172,Baburam Koirala,Male,Technical Writing,9805993159,onelifenlv@gmail.com,intermediate,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+173,Ganesh Marasini,Male,Technical Writing,9861604387,071bel314gnesh@pcampus.edu.np,Electrical,"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
+174,Sandesh Uprety,Male,Content Writing,9816921343,sandes.uprety1@gmail.com,Bsc(Hons),"Kathmandu,Nepal",,2020,,,,3,"Kathmandu,Nepal",Non Onb
